@@ -1,1 +1,1 @@
-A deep learning model using vgg16 model and my own top layers for real time face detection with bounding boxes. 
+A deep learning model using vgg16 model and my own top layers for real time face detection with bounding boxes. I have only taken 90 images and used albumentation software to augument my images randomly by randomly cropping, brigthness, flips etc. with which i have obtained 5400 images. The cool thing about albumentations is that, once we have given bounding box for the original image. For each augumented image, the bounding box will be created. 
